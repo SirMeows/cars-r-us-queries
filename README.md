@@ -1,4 +1,7 @@
 ## Start code for the backend part of the Cars 'R' Us ongoing exercise
+
+## Teacher's example code for study purposes!
+
 [![Java CI with Maven](https://github.com/kea-plaul/cars-r-us-startcode/actions/workflows/maven.yml/badge.svg)](https://github.com/kea-plaul/cars-r-us-startcode/actions/workflows/maven.yml)
 
 
